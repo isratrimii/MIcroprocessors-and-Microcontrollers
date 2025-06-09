@@ -1,1 +1,2 @@
-# MIcroprocessors-and-Microcontrollers
+# To run the files <br> 
+You have to download <b>emu8086</b> then install on your pc.
